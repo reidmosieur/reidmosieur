@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @reidmosieur
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, Javascript, and Angular
+- 🌱 I’m currently learning HTML, CSS, Javascript, Angular, React, and Python
