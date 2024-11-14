@@ -1,6 +1,6 @@
-Reid Mosieur
+# Reid Mosieur
 
-Ocala, FL
+## Ocala, FL
 
 352-615-6819
 
@@ -9,17 +9,21 @@ Summary
 
 Software developer with strong expertise in full-stack development, team management, and process optimization. Proven ability to deliver productivity tools that double output and SEO-focused e-commerce solutions that drive traffic. Skilled in integrating multiple APIs, modernizing legacy systems, and developing scalable applications. Passionate about building efficient, user-centered web applications.
 
-Skills
+## Skills
 
 Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Remix, Angular
+
 Backend: Node.js, Express, Python, Rust
+
 Databases: PostgreSQL, MongoDB, SQL
+
 DevOps & Cloud: AWS (EC2, RDS), Git, CI/CD
+
 Other: Shopify, API Integration, SEO, e-commerce
 
-Professional Experience
+## Professional Experience
 
-Developer
+### Developer
 
 Warehouse Wireless | Ocala, FL
 January 2022 - Present
@@ -29,7 +33,7 @@ January 2022 - Present
 	•	Transitioned legacy systems to AWS, enabling scalable, cloud-based infrastructure.
 	•	Managed one other developer through the full development cycle of applications.
 
-Floor Manager
+### Floor Manager
 
 Warehouse Wireless | Ocala, FL
 May 2016 - Present
@@ -37,19 +41,19 @@ May 2016 - Present
 	•	Led and optimized the hiring process to ensure consistent team performance.
 	•	Implemented initiatives and systems that resulted in 12 consecutive months of reaching quotas in 2023.
 
-Personal Projects
+## Personal Projects
 
-HelloAsync
+### HelloAsync
 In-progress project focused on async communication.
 	•	Designed with advanced authentication, security, and shared access permissions.
 	•	Utilizes AI for content moderation to enhance user experience.
 
-SearchAbilityScore
+### SearchAbilityScore
 Full-stack application to simplify hiring.
 	•	Built a CRUD application managing database operations, user authentication, and limited public access.
 	•	Integrated AI for scoring candidate results and custom Stripe integration for payment processing.
 
-Education
+## Education
 
 Forest High School
 Ocala, FL
@@ -57,8 +61,6 @@ August 2012 - May 2016
 	•	Completed the Engineering and Manufacturing Institute of Technology program, with a focus on engineering and architecture.
 	•	Certified in AutoCAD; recognized with awards in English and various Advanced Placement credits.
 
-Certifications & Courses
+## Certifications & Courses
 
 	•	Harvard CS50: Completed an introduction to computer science and programming fundamentals.
-
-This version highlights your achievements and skills more clearly, with concise, action-oriented language and improved readability. Make sure to personalize LinkedIn information if you decide to include it.
