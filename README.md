@@ -5,7 +5,8 @@
 352-615-6819
 
 rmosieur@gmail.com | reidmosieur.dev | @reidmosieur on LinkedIn, and Github
-Summary
+
+## Summary
 
 Software developer with strong expertise in full-stack development, team management, and process optimization. Proven ability to deliver productivity tools that double output and SEO-focused e-commerce solutions that drive traffic. Skilled in integrating multiple APIs, modernizing legacy systems, and developing scalable applications. Passionate about building efficient, user-centered web applications.
 
