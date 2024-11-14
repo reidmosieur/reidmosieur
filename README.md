@@ -28,6 +28,7 @@ Other: Shopify, API Integration, SEO, e-commerce
 
 Warehouse Wireless | Ocala, FL
 January 2022 - Present
+
 	•	Developed productivity tools with Next.js, HTML, CSS, and TypeScript, achieving a 100% increase in team output.
 	•	Architected and built SEO-optimized e-commerce landing pages and websites, boosting site traffic by 25%.
 	•	Integrated APIs from various vendors to streamline data handling for eBay, Shopify, and Google Shopping.
@@ -38,6 +39,7 @@ January 2022 - Present
 
 Warehouse Wireless | Ocala, FL
 May 2016 - Present
+
 	•	Oversaw a team of 15+ employees in a production environment, improving workplace efficiency by 50%.
 	•	Led and optimized the hiring process to ensure consistent team performance.
 	•	Implemented initiatives and systems that resulted in 12 consecutive months of reaching quotas in 2023.
@@ -45,12 +47,16 @@ May 2016 - Present
 ## Personal Projects
 
 ### HelloAsync
+
 In-progress project focused on async communication.
+
 	•	Designed with advanced authentication, security, and shared access permissions.
 	•	Utilizes AI for content moderation to enhance user experience.
 
 ### SearchAbilityScore
+
 Full-stack application to simplify hiring.
+
 	•	Built a CRUD application managing database operations, user authentication, and limited public access.
 	•	Integrated AI for scoring candidate results and custom Stripe integration for payment processing.
 
