@@ -4,7 +4,7 @@
 
 352-615-6819
 
-rmosieur@gmail.com | reidmosieur.dev | @reidmosieur on LinkedIn, and Github
+rmosieur@gmail.com | reidmosieur.dev | @reidmosieur on [LinkedIn](https://linkedin.com/in/reidmosieur), and Github
 
 ## Summary
 
