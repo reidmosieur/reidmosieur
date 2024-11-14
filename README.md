@@ -1,6 +1,9 @@
 Reid Mosieur
+
 Ocala, FL
+
 352-615-6819
+
 rmosieur@gmail.com | reidmosieur.dev | @reidmosieur on LinkedIn, and Github
 Summary
 
