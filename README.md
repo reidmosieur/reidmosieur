@@ -1,73 +1,58 @@
-# Reid Mosieur
+## Reid Mosieur
 
-## Ocala, FL
+**Full-Stack Developer — Ocala, FL**
+📞 352-615-6819 · 📧 [rmosieur@gmail.com](mailto:rmosieur@gmail.com)
+🌐 [reidmosieur.dev](https://reidmosieur.dev) · [GitHub](https://github.com/reidmosieur) · [LinkedIn](https://linkedin.com/in/reidmosieur)
 
-352-615-6819
+---
 
-rmosieur@gmail.com | reidmosieur.dev | @reidmosieur on [LinkedIn](https://linkedin.com/in/reidmosieur), and [Github](https://github.com/reidmosieur)
+## 👋 About Me
 
-## Summary
+I'm a full-stack software developer with a strong background in building scalable web applications, optimizing internal tools, and leading small teams through full product cycles. I focus on delivering real business outcomes—whether that’s doubling team output with automation or increasing organic traffic through technical SEO. I enjoy turning complex systems into simple, intuitive interfaces.
 
-Software developer with strong expertise in full-stack development, team management, and process optimization. Proven ability to deliver productivity tools that double output and SEO-focused e-commerce solutions that drive traffic. Skilled in integrating multiple APIs, modernizing legacy systems, and developing scalable applications. Passionate about building efficient, user-centered web applications.
+---
 
-## Skills
+## 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Remix, Angular
+**Frontend**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Remix, Angular
+**Backend**: Node.js, Express, Python, Rust
+**Databases**: PostgreSQL, MongoDB, SQL
+**DevOps & Cloud**: AWS (EC2, RDS), Git, CI/CD
+**Other**: API Integration, Shopify, Technical SEO, E-commerce
 
-Backend: Node.js, Express, Python, Rust
+---
 
-Databases: PostgreSQL, MongoDB, SQL
-
-DevOps & Cloud: AWS (EC2, RDS), Git, CI/CD
-
-Other: Shopify, API Integration, SEO, e-commerce
-
-## Professional Experience
+## 💼 Experience
 
 ### Developer
 
-Warehouse Wireless | Ocala, FL
-January 2022 - Present
+**Warehouse Wireless** — Ocala, FL · *Jan 2022 – Present*
 
-	•	Developed productivity tools with Next.js, HTML, CSS, and TypeScript, achieving a 100% increase in team output.
-	•	Architected and built SEO-optimized e-commerce landing pages and websites, boosting site traffic by 25%.
-	•	Integrated APIs from various vendors to streamline data handling for eBay, Shopify, and Google Shopping.
-	•	Transitioned legacy systems to AWS, enabling scalable, cloud-based infrastructure.
-	•	Managed one other developer through the full development cycle of applications.
+* Built internal tools with Next.js + TypeScript, doubling team productivity.
+* Developed SEO-optimized e-commerce landing pages, increasing traffic by 25%.
+* Integrated APIs (Shopify, eBay, Google Shopping) to streamline operations.
+* Migrated legacy systems to AWS, enabling modern, scalable infrastructure.
+* Mentored and led a junior developer across full project lifecycles.
 
 ### Floor Manager
 
-Warehouse Wireless | Ocala, FL
-May 2016 - Present
+**Warehouse Wireless** — Ocala, FL · *May 2016 – Present*
 
-	•	Oversaw a team of 15+ employees in a production environment, improving workplace efficiency by 50%.
-	•	Led and optimized the hiring process to ensure consistent team performance.
-	•	Implemented initiatives and systems that resulted in 12 consecutive months of reaching quotas in 2023.
+* Managed a 15+ person team in a high-volume production environment.
+* Streamlined hiring and training, improving team efficiency by 50%.
+* Spearheaded systems that drove 12 consecutive quota-hitting months in 2023.
 
-## Personal Projects
+---
 
-### HelloAsync
+## 🎓 Education
 
-In-progress project focused on async communication.
+**Forest High School** — Ocala, FL · *2012 – 2016*
 
-	•	Designed with advanced authentication, security, and shared access permissions.
-	•	Utilizes AI for content moderation to enhance user experience.
+* Engineering and Manufacturing Institute of Technology graduate.
+* Certified in AutoCAD; earned AP credits and English awards.
 
-### SearchAbilityScore
+---
 
-Full-stack application to simplify hiring.
+## 📜 Certifications
 
-	•	Built a CRUD application managing database operations, user authentication, and limited public access.
-	•	Integrated AI for scoring candidate results and custom Stripe integration for payment processing.
-
-## Education
-
-Forest High School
-Ocala, FL
-August 2012 - May 2016
-	•	Completed the Engineering and Manufacturing Institute of Technology program, with a focus on engineering and architecture.
-	•	Certified in AutoCAD; recognized with awards in English and various Advanced Placement credits.
-
-## Certifications & Courses
-
-	•	Harvard CS50: Completed an introduction to computer science and programming fundamentals.
+* **Harvard CS50** – Completed a foundational course in computer science and software development principles.
